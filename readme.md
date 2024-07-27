@@ -1,6 +1,8 @@
 # Steering Wheel Angle Estimation for Autonomous Driving using ResNet-101 pretrained with ImageNet
 
-![demo image](resources/semseg.gif)
+![demo image](resources/steering_wheel_angle.gif)
+
+[Click Here](https://youtu.be/Cth3W1DdVQI) to Watch Full Demo in YouTube.
 
 ## Installation
 
